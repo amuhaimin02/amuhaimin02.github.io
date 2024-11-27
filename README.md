@@ -1,4 +1,4 @@
-My Github page.
+Akmal's Github page
 
 Contains
 
@@ -11,3 +11,10 @@ Contains
 - Flutterversi, a Reversi/Othello clone: [https://amuhaimin02.github.io/flutterversi/#/](https://amuhaimin02.github.io/flutterversi/#/)
 
 - SvelteMatchGame, a matching memory game, but with Svelte: [https://amuhaimin02.github.io/svelte_match_game/](https://amuhaimin02.github.io/svelte_match_game/)
+
+- SvelteMatchGame, a matching memory game, but with Svelte: [https://amuhaimin02.github.io/svelte_match_game/](https://amuhaimin02.github.io/svelte_match_game/)
+
+- Solitaire, a card game: [https://amuhaimin02.github.io/solitaire/](https://amuhaimin02.github.io/solitaire/)
+
+
+P.S.: Remind me to update this page and give more styles to it.
