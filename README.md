@@ -12,8 +12,6 @@ Contains
 
 - SvelteMatchGame, a matching memory game, but with Svelte: [https://amuhaimin02.github.io/svelte_match_game/](https://amuhaimin02.github.io/svelte_match_game/)
 
-- SvelteMatchGame, a matching memory game, but with Svelte: [https://amuhaimin02.github.io/svelte_match_game/](https://amuhaimin02.github.io/svelte_match_game/)
-
 - Solitaire, a card game: [https://amuhaimin02.github.io/solitaire/](https://amuhaimin02.github.io/solitaire/)
 
 
